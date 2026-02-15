@@ -16,10 +16,10 @@
 
 <table>
 <tr>
-<td width="40%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<td width="20%">
+<img src="https://github.com/nisdenn/RANDOM/blob/main/profile.jpeg" width="100%">
 </td>
-<td width="60%">
+<td width="20%">
 
 I am a passionate beginner developer focused on consistent growth and long-term mastery.
 
@@ -44,7 +44,7 @@ My long-term goal is to become a professional, reliable, and high-value develope
 <table>
 <tr>
 <td width="40%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://github.com/nisdenn/RANDOM/blob/main/STACK%20SECTION.jpg" width="100%">
 </td>
 <td width="60%">
 
@@ -66,19 +66,11 @@ I believe understanding concepts deeply is more important than just memorizing s
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisdenn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisdenn&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisdenn&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n2c42zzbgeg6csoz6mgmz7zc44&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false" />
-</p>
->
 
 ---
 

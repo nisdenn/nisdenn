@@ -66,24 +66,6 @@ I believe understanding concepts deeply is more important than just memorizing s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisdenn&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/nisdenn/program-kasir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisdenn&repo=program-kasir&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">

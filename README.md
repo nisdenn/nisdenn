@@ -1,4 +1,4 @@
-![Banner]([[https://raw.githubusercontent.com/nisdenn/RANDOM/main/GITHUB%20BANNER.png](https://res.cloudinary.com/noceur-project/image/upload/v1784620613/BANNER_abj0o1.png)])
+![Banner](https://res.cloudinary.com/noceur-project/image/upload/v1784620613/BANNER_abj0o1.png)
 
 <h1 align="center">Hi, I'm Denis Lapianso 👋</h1>
 

@@ -88,7 +88,7 @@ My long-term goal is to become a professional, reliable, and high-value develope
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/denis-lapianso-39970a3a3">
+  <a href="https://www.linkedin.com/in/denis-lapianso-akbar">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
